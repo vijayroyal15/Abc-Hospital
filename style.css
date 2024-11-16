@@ -1,0 +1,33 @@
+header
+{
+    background-color: blue;
+}
+h1
+{
+    text-align: center;
+    color: white;
+}
+a
+{
+    align-items: center;
+    color: white;
+}
+h2
+{
+    color: blue;
+}
+h3
+{
+    text-align: center;
+    color: white;
+}
+footer
+{
+    background-color: blue;
+}
+div
+{
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
